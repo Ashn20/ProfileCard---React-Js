@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ProfileCard---React-Js/static/css/main.cf879b92.css",
+    "main.js": "/ProfileCard---React-Js/static/js/main.b545e43b.js",
+    "static/js/592.ffecf1da.chunk.js": "/ProfileCard---React-Js/static/js/592.ffecf1da.chunk.js",
+    "static/media/logo.svg": "/ProfileCard---React-Js/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ProfileCard---React-Js/index.html",
+    "main.cf879b92.css.map": "/ProfileCard---React-Js/static/css/main.cf879b92.css.map",
+    "main.b545e43b.js.map": "/ProfileCard---React-Js/static/js/main.b545e43b.js.map",
+    "592.ffecf1da.chunk.js.map": "/ProfileCard---React-Js/static/js/592.ffecf1da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf879b92.css",
+    "static/js/main.b545e43b.js"
+  ]
+}
